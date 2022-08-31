@@ -7,6 +7,4 @@ Now I'm Pushing!
 .
 now it's new version
 
-This is on main branch.
-
-On newBranch branch.
+This is on main branch. yeah...
