@@ -9,4 +9,4 @@ now it's new version
 
 This is on newBranchName.
 
-new commit.
+HEAD in nameBranch.
